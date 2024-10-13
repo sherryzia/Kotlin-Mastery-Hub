@@ -4,35 +4,29 @@ Welcome to the Basics section of our Kotlin learning journey! In this section, w
 
 ## Topics Covered
 
-1. **Introduction to Kotlin**
-   - Overview of Kotlin and its features.
-   
-2. **Setting Up Kotlin**
-   - How to set up Kotlin in IntelliJ IDEA and Android Studio.
-
-3. **Variables and Data Types**
+1. **Variables and Data Types**
    - Understanding different types of variables and data types in Kotlin.
 
-4. **Control Flow**
+2. **Control Flow**
    - Conditional statements (if, when).
    - Loops (for, while).
 
-5. **Functions**
+3. **Functions**
    - Defining and calling functions in Kotlin.
    - Understanding parameters and return types.
 
-6. **Classes and Objects**
+4. **Classes and Objects**
    - Basic concepts of classes and objects in Kotlin.
    - Creating and using classes.
 
-7. **Collections**
+5. **Collections**
    - Introduction to lists, maps, and sets.
    - Operations on collections.
 
-8. **Null Safety**
+6. **Null Safety**
    - Understanding nullability and safe calls in Kotlin.
 
-9. **Extension Functions**
+8. **Extension Functions**
    - How to add new functionality to existing classes without modifying their source code.
 
 ## Purpose of this Section
