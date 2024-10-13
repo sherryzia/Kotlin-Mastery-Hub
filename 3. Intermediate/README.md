@@ -4,19 +4,19 @@ In this section, we will delve into intermediate concepts in Kotlin that enhance
 
 ## Table of Contents
 
-1. [Inheritance and Polymorphism](InheritanceAndPolymorphism.md)
+#### 1. Inheritance and Polymorphism
    - Understanding how to extend classes, utilize inheritance, and apply polymorphism.
   
-2. [Interfaces](Interfaces.md)
+#### 2. Interfaces
    - Exploring how interfaces work in Kotlin, their role in defining contracts, and how to implement them in classes.
 
-3. [Abstraction](Abstraction.md)
+#### 3. Abstraction
    - Learning about abstraction in Kotlin, including abstract classes and methods, and how they are used to define common behaviors.
 
-4. [Enums](Enum.md)
+#### 4. Enums
    - Discovering how to use enum classes in Kotlin for defining a set of constants and how to associate properties and methods with them.
 
-5. [Generics](Generics.md)
+#### 5. Generics
    - Understanding generics in Kotlin, including how to create generic classes and functions, and the benefits of type safety.
 
 ## Overview of Intermediate Topics
